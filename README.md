@@ -21,7 +21,7 @@ O jogo salva o registro de recordes em um arquivo, que é lido no início da exe
 
 Para jogar é simples, basta baixar a pasta com os arquivos e compile no terminal com o comando:
 
-**gcc -Wall -o jogo cores.c tela.c 
+**gcc -Wall -o jogo cores.c tela.c**
 
 Após, execute com:
 
